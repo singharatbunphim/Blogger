@@ -1,0 +1,17 @@
+.contact {
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+      color: white;
+      display: flex;
+      justify-content: center;
+      text-align: center;
+}
+
+.contact h1 {
+      margin-top: 1rem;
+}
+
+.contact .button-follow {
+      margin-top: 1rem;
+}
